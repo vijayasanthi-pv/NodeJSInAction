@@ -1,0 +1,10 @@
+{
+  "db": {
+    "USER" : "****",
+    "PASS" : "*****",
+    "HOST" : "********",
+    "PORT" : "",
+    "DATABASE" : "simpleblog"
+
+  }
+}
